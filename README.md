@@ -61,10 +61,6 @@ assets/
 - **Dart** - Programming language
 - **Material Design** - UI components
 
-## 📸 Screenshots
-
-_Add screenshots of your app here_
-
 ## 📝 Learning Points
 
 This project demonstrates:
